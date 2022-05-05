@@ -66,7 +66,7 @@ params:
         imageUrl: "/images/jonbeckett_newsprint.jpg"
         imageWidth: 120
         imageHeight: 120
-        imageTitle: my image
+        imageTitle: Jonathan Beckett
         buttons:
             - name: Posts
               url: posts
@@ -76,7 +76,7 @@ params:
     # home-info mode
     homeInfoParams:
         Title: "Greetings! \U0001F44B"
-        Content: You're reading the personal journal of Jonathan Beckett - software and web developer, husband, father, cat wrangler, writer, runner, coffee drinker, retro video games player. Pizza solves most things.
+        Content: You're reading the personal journal of Jonathan Beckett - software and web developer, husband, father, cat wrangler, writer, runner, coffee drinker, and player of far too many retro video games.
 
     socialIcons:
         - name: mastodon
@@ -90,9 +90,9 @@ params:
         - name: github
           url: "https://github.com/jonbeckett"
 
-    analytics:
-        google:
-            SiteVerificationTag: "XYZabc"
+    #analytics:
+    #    google:
+    #        SiteVerificationTag: "XYZabc"
 
     cover:
         hidden: true # hide everywhere but not in structured data
