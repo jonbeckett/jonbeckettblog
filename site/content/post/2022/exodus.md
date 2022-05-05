@@ -23,7 +23,7 @@ It's perhaps wrong to talk about Mastodon as a thing. It's not the thing - as th
 
 This video explains it far better than I can:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/IPSbNdBmWKE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{< youtube IPSbNdBmWKE >}}
 
 I'll stop lecturing now.
 
@@ -31,4 +31,4 @@ After tinkering with Mastodon for the last several years, I registered with one 
 
 It's been fun. It continues to be fun. The marketers haven't arrived yet. A new social network has been born, and is filled with wide eyed people stepping through Joe MacMillan's Holland Tunnel, taking in the city for the first time.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mi_fKu9WTAE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{< youtube mi_fKu9WTAE >}}

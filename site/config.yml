@@ -24,7 +24,7 @@ params:
     description: "The life and times of a software and web developer"
     keywords: [Blog, Journal, Diary]
     author: Jonathan Beckett
-    images: ["<link or path of image for opengraph, twitter-cards>"]
+    images: ["/images/jonbeckett_newsprint.jpg"]
     DateFormat: "January 2, 2006"
     defaultTheme: auto # dark, light
     disableThemeToggle: true
@@ -32,7 +32,7 @@ params:
     ShowFullTextinRSS: true
 
     ShowReadingTime: false
-    ShowShareButtons: true
+    ShowShareButtons: false
     ShowPostNavLinks: true
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: false
@@ -63,7 +63,7 @@ params:
         enabled: false # needs to be explicitly set
         title: ExampleSite
         subtitle: "This is subtitle"
-        imageUrl: "<img location>"
+        imageUrl: "/images/jonbeckett_newsprint.jpg"
         imageWidth: 120
         imageHeight: 120
         imageTitle: my image
