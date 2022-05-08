@@ -1,5 +1,5 @@
 ---
-title: Chore DayS
+title: Chore Days
 date: 2022-05-08
 ---
 
