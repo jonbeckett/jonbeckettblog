@@ -1,8 +1,0 @@
----
-title: I'm staying away from the news today
-date: 2011-09-11
----
-
-![I'm staying away from the news today](https://source.unsplash.com/gp8BLyaTaA0/1600x900)
-
-Don't get me wrong - what happened ten years ago wasawful, but to go on and onabout it for ten years, like you are the only country something like that has happened to tends to cause people to stop listening.

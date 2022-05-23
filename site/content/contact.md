@@ -15,7 +15,6 @@ Email is by far the most reliable method to get hold of me.
 
 I have accounts at several of the popular social networks:
 
-- [Mastodon](https://mastodon.online/@jonbeckett) (*preferred*)
 - [Twitter](https://twitter.com/jonbeckett)
 - [Facebook](https://facebook.com/jonbeckett)
 - [Instagram](https://instagram.com/jonbeckett)
@@ -25,9 +24,7 @@ I have accounts at several of the popular social networks:
 
 I write an almost daily journal which is published here, then cross-posted to Wordpress and Tumblr by Zapier.
 
-- [Here!](https://jonbeckett.blog)
 - [Wordpress](https://jonathanwrotethis.wordpress.com)
-- [Tumblr](https://jonathanwrotethis.tumblr.com)
 
 
 ### Instant Messaging
